@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T05:53:32.468048+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-05-02T06:48:55.128349+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
@@ -17,8 +17,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
+        },
+        {
+          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时48分]"
+        },
+        {
+          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3098071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时48分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "特朗普声称伊朗领导层“四分五裂” 但都想达成协议",
@@ -41,6 +76,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
+        },
+        {
+          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "美国总统特朗普：（关于精神航空）将于周五晚些时候发布公告。",
@@ -109,17 +166,6 @@
           "time_info": "00时57分"
         },
         {
-          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）我感到不满。",
           "url": "https://flash.jin10.com/detail/20260502003003874800",
           "source": "金十数据",
@@ -142,50 +188,15 @@
           "time_info": "02时01分"
         },
         {
-          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3098071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
-        },
-        {
-          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
-          "source": "澎湃新闻",
+          "title": "郑丽文希望去美国见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
-        },
-        {
-          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
+          "time_info": "[02时01分 ~ 06时48分]"
         },
         {
           "title": "伊朗战争丨特朗普：对伊朗最新的谈判方案不满意",
@@ -270,15 +281,38 @@
           "time_info": "[02时01分 ~ 03时24分]"
         },
         {
-          "title": "郑丽文希望去美国见特朗普，黄国昌回应",
-          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：将会对那些想要拥有核武器的国家采取措施。",
+          "url": "https://wallstreetcn.com/livenews/3098044",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时48分]"
+        },
+        {
+          "title": "资深共和党官员理查德·沃尔特斯（Richard Walters）有望加入白宫 ，担任特朗普政府的副幕僚长。",
+          "url": "https://flash.jin10.com/detail/20260502034714929800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时48分]"
+        },
+        {
+          "title": "特朗普告诉国会，伊朗战争已“终止”，美国参议院少数党领袖舒默对此回应称：“这真是胡说八道。 这是一场非法战争，每一天共和党人继续同谋并允许其继续，都是在让生命处于危险之中，混乱加剧，物价上涨，而美国人却在为此买单。 ”",
+          "url": "https://flash.jin10.com/detail/20260502034433058800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时48分]"
         },
         {
           "title": "美国总统特朗普：伊朗提出了我无法同意的事。",
@@ -341,18 +375,6 @@
           "time_info": "[00时57分 ~ 02时01分]"
         },
         {
-          "title": "美国总统特朗普：将会对那些想要拥有核武器的国家采取措施。",
-          "url": "https://wallstreetcn.com/livenews/3098044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
-        },
-        {
           "title": "欧洲议会贸易委员会主席Bernd Lange：美国总统特朗普的行为让人无法接受。 我们欧盟以及欧洲议会，正在履行《苏格兰协议》（Scotland Deal）。 我们目前正在起草相关立法；我们已有议会立场，并计划在 6 月敲定。 美国已多次违反该协议。 最近的这一举动证明了美方是多么地不可信。 这不是对待紧密合作伙伴的方式。",
           "url": "https://wallstreetcn.com/livenews/3097975",
           "source": "华尔街见闻-快讯",
@@ -377,6 +399,17 @@
           "time_info": "[00时57分 ~ 02时01分]"
         },
         {
+          "title": "美国总统特朗普：将迎来一位出色的美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3098059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时48分]"
+        },
+        {
           "title": "特朗普：伊朗最新方案让人不满意",
           "url": "https://wallstreetcn.com/livenews/3097971",
           "source": "华尔街见闻-快讯",
@@ -387,28 +420,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 02时01分]"
-        },
-        {
-          "title": "资深共和党官员理查德·沃尔特斯（Richard Walters）有望加入白宫 ，担任特朗普政府的副幕僚长。",
-          "url": "https://flash.jin10.com/detail/20260502034714929800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
-        },
-        {
-          "title": "特朗普告诉国会，伊朗战争已“终止”，美国参议院少数党领袖舒默对此回应称：“这真是胡说八道。 这是一场非法战争，每一天共和党人继续同谋并允许其继续，都是在让生命处于危险之中，混乱加剧，物价上涨，而美国人却在为此买单。 ”",
-          "url": "https://flash.jin10.com/detail/20260502034433058800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊战事已“结束”",
@@ -571,9 +582,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "美国总统特朗普：已经告知德国，美方将把汽车关税提高至25%。 德国没有遵守我们的贸易协议。 欧盟没有遵守与美国的贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3098062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "美国总统特朗普：我们正在通过电话进行谈判。",
@@ -642,17 +664,6 @@
           "time_info": "00时57分"
         },
         {
-          "title": "美国总统特朗普：将迎来一位出色的美联储主席。",
-          "url": "https://wallstreetcn.com/livenews/3098059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "特朗普暗示不会就持续对伊朗军事行动寻求国会批准",
           "url": "https://flash.jin10.com/detail/20260502005826166800",
           "source": "金十数据",
@@ -670,9 +681,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "特朗普：我认为将近400艘油轮被困在霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3098057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "特朗普：个人倾向于不重启对伊轰炸行动",
@@ -695,6 +717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普兜售股市上涨，宣称本来以为（美国和以色列发动的伊朗）战争会让股市暴跌25%。",
+          "url": "https://wallstreetcn.com/livenews/3098055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "据两名白宫官员透露，美国总统特朗普周五签署了一项行政命令，对古巴政府实施新的制裁。",
@@ -865,7 +898,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -875,8 +908,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
@@ -887,8 +920,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
+        },
+        {
+          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
+          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
+        },
+        {
+          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "美媒：美军在中东8国16处军事设施在伊朗袭击中受损",
@@ -902,6 +957,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
+          "url": "https://news.ifeng.com/c/8smcP2ejt6D",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 06时48分]"
+        },
+        {
           "title": "伊朗最高领袖：当前阶段需要推动“经济抗争”",
           "url": "https://wallstreetcn.com/livenews/3098017",
           "source": "华尔街见闻-快讯",
@@ -913,26 +979,31 @@
           "time_info": "03时24分"
         },
         {
-          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
-          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
-          "source": "凤凰网",
+          "title": "伊朗：外长与欧盟外交政策负责任通电话。",
+          "url": "https://wallstreetcn.com/livenews/3098053",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时48分]"
+        },
+        {
+          "title": "伊朗递交最新谈判方案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26,
+            15,
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
-        },
-        {
-          "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
-          "url": "https://news.ifeng.com/c/8smcP2ejt6D",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 05时53分]"
+          "time_info": "[02时01分 ~ 06时48分]"
         },
         {
           "title": "美媒：美军在中东8国16处军事设施在伊朗袭击中受损",
@@ -947,32 +1018,6 @@
           "time_info": "[02时01分 ~ 03时24分]"
         },
         {
-          "title": "伊朗：外长与欧盟外交政策负责任通电话。",
-          "url": "https://wallstreetcn.com/livenews/3098053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
-        },
-        {
-          "title": "伊朗递交最新谈判方案",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 05时53分]"
-        },
-        {
           "title": "对话把151件伊朗国宝从战火中带来中国的策展人：只要人在，生活方式就会保留｜907编辑部",
           "url": "https://m.thepaper.cn/newsDetail_forward_33085021",
           "source": "澎湃新闻",
@@ -980,8 +1025,19 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时24分 ~ 06时48分]"
+        },
+        {
+          "title": "伊朗革命卫队：将把霍尔木兹海域打造为“安全与繁荣之源”",
+          "url": "https://flash.jin10.com/detail/20260502035839783800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时24分 ~ 05时53分]"
+          "time_info": "[04时52分 ~ 06时48分]"
         },
         {
           "title": "伊朗外长与俄罗斯外长通电话。",
@@ -996,15 +1052,26 @@
           "time_info": "[00时57分 ~ 02时01分]"
         },
         {
-          "title": "伊朗革命卫队：将把霍尔木兹海域打造为“安全与繁荣之源”",
-          "url": "https://flash.jin10.com/detail/20260502035839783800",
-          "source": "金十数据",
+          "title": "惠誉：确认阿布扎比评级为“AA”；展望稳定。 稳定的展望反映了石油出口收入在伊朗战争期间的韧性，这显著抵消了战争带来的负面影响。 伊朗战争结束后，我们预计政府将推出旨在振兴非石油经济的支持计划。",
+          "url": "https://wallstreetcn.com/livenews/3098063",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
+          "time_info": "[05时53分 ~ 06时48分]"
+        },
+        {
+          "title": "美国封锁给伊朗造成48亿美元代价。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3098060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时48分]"
         },
         {
           "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
@@ -1052,6 +1119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "伊朗战争丨白宫致函美国国会，称对伊战争已“结束”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：最高领袖将为波斯湾制定新规则",
@@ -1120,17 +1198,6 @@
           "time_info": "03时24分"
         },
         {
-          "title": "惠誉：确认阿布扎比评级为“AA”；展望稳定。 稳定的展望反映了石油出口收入在伊朗战争期间的韧性，这显著抵消了战争带来的负面影响。 伊朗战争结束后，我们预计政府将推出旨在振兴非石油经济的支持计划。",
-          "url": "https://wallstreetcn.com/livenews/3098063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "美媒：伊朗放宽与美国恢复和谈的条件",
           "url": "https://flash.jin10.com/detail/20260502022007848800",
           "source": "金十数据",
@@ -1140,17 +1207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "美国封锁给伊朗造成48亿美元代价。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3098060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
         },
         {
           "title": "美媒：伊朗考虑利用携带水雷的海豚攻击美军战舰",
@@ -1387,7 +1443,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -1410,8 +1466,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时48分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
@@ -1421,8 +1477,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时48分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股盘中）",
@@ -1442,9 +1498,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
+          "url": "https://wallstreetcn.com/livenews/3098073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -1458,6 +1525,29 @@
           "time_info": "00时57分"
         },
         {
+          "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
+          "url": "https://wallstreetcn.com/livenews/3098047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时48分]"
+        },
+        {
+          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
+          "url": "https://flash.jin10.com/detail/20260502040111732800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时48分]"
+        },
+        {
           "title": "比特币涨超2%，美股盘初曾逼近7.9万美元，狗狗币最近七天涨超10%",
           "url": "https://wallstreetcn.com/livenews/3097992",
           "source": "华尔街见闻-快讯",
@@ -1468,29 +1558,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时24分]"
-        },
-        {
-          "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
-          "url": "https://wallstreetcn.com/livenews/3098047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
-        },
-        {
-          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
-          "url": "https://flash.jin10.com/detail/20260502040111732800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
         },
         {
           "title": "美股行业ETF涨跌各异，能源业ETF跌超1.3%",
@@ -1518,8 +1585,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -1530,8 +1597,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -1541,8 +1608,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -1553,8 +1620,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
@@ -1565,14 +1632,14 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时48分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
@@ -1583,8 +1650,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "周五（5月1日）纽约尾盘，美国10年期基准国债收益率跌0.08个基点，报4.3698%，北京时间21:48涨至4.4029%刷新日高，随后跳水——22:24刷新日低至4.3408%，本周累计上涨6.91个基点，4月27-40日持续走高、亚太午盘达到4.4339%，随后持续回吐涨幅。 两年期美债收益率涨0.86个基点，报3.8775%，21:48涨至3.9022%刷新日高、22:22跌至3.8424%刷新日低，本周累涨9.92个基点，4月29日纽约中午曾涨至3.9510%。",
@@ -1593,9 +1660,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "短端美债收益率本周累涨约10个基点",
+          "url": "https://wallstreetcn.com/livenews/3098066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         }
       ]
     },
@@ -1611,8 +1689,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时48分]"
         }
       ]
     },
