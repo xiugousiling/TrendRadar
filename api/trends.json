@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:51:36.397363+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-05-10T21:15:23.315233+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 69,
+      "match_count": 77,
       "titles": [
         {
           "title": "怕中俄再否决涉伊朗决议，美国删了",
@@ -83,6 +83,18 @@
           "time_info": "[00时54分 ~ 10时47分]"
         },
         {
+          "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
+          "url": "https://news.ifeng.com/c/8t0moPsqScq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 21时15分]"
+        },
+        {
           "title": "伊朗外长：停止侵略、放弃无理要求是推进外交进程必要条件",
           "url": "https://wallstreetcn.com/livenews/3101088",
           "source": "华尔街见闻-快讯",
@@ -97,17 +109,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时55分 ~ 16时53分]"
-        },
-        {
-          "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
-          "url": "https://news.ifeng.com/c/8t0moPsqScq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 19时51分]"
         },
         {
           "title": "伊朗官员：提防美国“海盗式行动”",
@@ -183,6 +184,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "伊朗战争丨伊朗已就美国的提案作出回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "美军：继续执行对伊朗的海上封锁",
           "url": "https://wallstreetcn.com/livenews/3101090",
           "source": "华尔街见闻-快讯",
@@ -196,6 +208,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时55分 ~ 14时11分]"
+        },
+        {
+          "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
+          "url": "https://wallstreetcn.com/livenews/3101108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            16,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时11分 ~ 21时15分]"
         },
         {
           "title": "伊官员：伊朗将继续行使自卫权，警惕美方敌对行动",
@@ -222,6 +249,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
+        },
+        {
+          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260510205901674800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://wallstreetcn.com/livenews/3101140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "美高层会晤卡塔尔首相推动伊朗停火",
@@ -263,26 +312,26 @@
           "time_info": "[04时55分 ~ 07时46分]"
         },
         {
-          "title": "卡塔尔外交部长告诉伊朗外长，各方应积极响应调解努力，以结束战争。",
-          "url": "https://flash.jin10.com/detail/20260510192604028800",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：根据拟议计划，现阶段谈判将聚焦于结束战争。",
+          "url": "https://flash.jin10.com/detail/20260510202547607800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "21时15分"
         },
         {
-          "title": "阿联酋称拦截伊朗导弹和无人机",
-          "url": "https://wallstreetcn.com/livenews/3101133",
+          "title": "伊朗摧毁两个与摩萨德有关联的行动组",
+          "url": "https://wallstreetcn.com/livenews/3101138",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "21时15分"
         },
         {
           "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
@@ -309,18 +358,15 @@
           "time_info": "[05时42分 ~ 07时46分]"
         },
         {
-          "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
-          "url": "https://wallstreetcn.com/livenews/3101108",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗对美国提案的回应已通过巴基斯坦转交",
+          "url": "https://flash.jin10.com/detail/20260510202448557800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            11,
-            16,
-            22
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时11分 ~ 19时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "据伊朗法尔斯通讯社：俄罗斯总统普京表示，美伊持续交战对谁都没好处。美伊局势极为复杂，也让俄罗斯陷入两难境地，因为我们与伊朗和阿拉伯国家都保持着良好关系。",
@@ -365,6 +411,20 @@
           "time_info": "[04时00分 ~ 07时46分]"
         },
         {
+          "title": "伊朗称若敌人再袭将进入新作战领域",
+          "url": "https://wallstreetcn.com/livenews/3101114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 21时15分]"
+        },
+        {
           "title": "伊朗战争丨伊朗足协提出参加世界杯10项条件",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -400,29 +460,41 @@
           "time_info": "[18时14分 ~ 19时51分]"
         },
         {
-          "title": "伊朗称若敌人再袭将进入新作战领域",
-          "url": "https://wallstreetcn.com/livenews/3101114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 19时51分]"
-        },
-        {
           "title": "伊朗总统：谈判并非投降，旨在捍卫国家利益",
           "url": "https://wallstreetcn.com/livenews/3101127",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 21时15分]"
+        },
+        {
+          "title": "阿联酋称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3101133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时51分]"
+          "time_info": "[19时51分 ~ 21时15分]"
+        },
+        {
+          "title": "卡塔尔外交部长告诉伊朗外长，各方应积极响应调解努力，以结束战争。",
+          "url": "https://flash.jin10.com/detail/20260510192604028800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时15分]"
         },
         {
           "title": "伊朗准备全面接管通过霍尔木兹海峡的全部7条海底互联网光缆。",
@@ -447,6 +519,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时14分 ~ 19时51分]"
+        },
+        {
+          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
+          "url": "https://wallstreetcn.com/livenews/3101109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 21时15分]"
+        },
+        {
+          "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
+          "url": "https://wallstreetcn.com/livenews/3101112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 21时15分]"
         },
         {
           "title": "伊朗：已没收262处“叛国者”房产",
@@ -506,32 +606,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 07时46分]"
-        },
-        {
-          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
-          "url": "https://wallstreetcn.com/livenews/3101109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 19时51分]"
-        },
-        {
-          "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
-          "url": "https://wallstreetcn.com/livenews/3101112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 19时51分]"
         },
         {
           "title": "据以色列第13频道援引以方消息人士称，以军认为当前伊朗势力的局势提供了一个行动契机，有必要重返战场并完成任务。",
@@ -597,6 +671,18 @@
           "time_info": "[18时14分 ~ 19时51分]"
         },
         {
+          "title": "安全消息人士：无人机袭击了位于伊拉克埃尔比勒以东的伊朗库尔德反对派营地。",
+          "url": "https://flash.jin10.com/detail/20260510185735564800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时15分]"
+        },
+        {
           "title": "普京：伊朗战事让俄罗斯处境复杂",
           "url": "https://www.toutiao.com/trending/7637689729144143878/",
           "source": "今日头条",
@@ -606,6 +692,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时46分 ~ 10时47分]"
+        },
+        {
+          "title": "阿联酋国防部：空中防御系统成功拦截了两架来自伊朗的无人机。",
+          "url": "https://flash.jin10.com/detail/20260510184402238800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时15分]"
+        },
+        {
+          "title": "伊朗最高领袖会见武装部队司令",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%A7%81%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E5%8F%B8%E4%BB%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时15分]"
         },
         {
           "title": "伊朗外长：停止侵略、放弃无理要求是推进外交进程必要条件",
@@ -637,20 +747,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
         {
-          "title": "安全消息人士：无人机袭击了位于伊拉克埃尔比勒以东的伊朗库尔德反对派营地。",
-          "url": "https://flash.jin10.com/detail/20260510185735564800",
+          "title": "据伊朗塔斯尼姆通讯社：一艘悬挂巴拿马国旗、驶往巴西的散货船通过了伊朗武装部队指定的霍尔木兹海峡航线。",
+          "url": "https://flash.jin10.com/detail/20260510201816190800",
           "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "21时15分"
+        },
+        {
+          "title": "伊朗摧毁两个与摩萨德有关联的行动组",
+          "url": "https://flash.jin10.com/detail/20260510201134602800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "伊朗高级官员警告：“别亲手关死霍尔木兹海峡的大门”",
@@ -686,17 +807,6 @@
           "time_info": "16时53分"
         },
         {
-          "title": "阿联酋国防部：空中防御系统成功拦截了两架来自伊朗的无人机。",
-          "url": "https://flash.jin10.com/detail/20260510184402238800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
           "title": "黎巴嫩外交部：在巴林王国揭露与伊朗革命卫队有关联、危害其安全与稳定的组织后，黎方声援巴林。",
           "url": "https://flash.jin10.com/detail/20260510005208719800",
           "source": "金十数据",
@@ -719,17 +829,6 @@
           "time_info": "10时47分"
         },
         {
-          "title": "伊朗最高领袖会见武装部队司令",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%A7%81%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E5%8F%B8%E4%BB%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
           "title": "据伊朗Press TV：有美军战机在伊拉克首都巴格达上空飞行。",
           "url": "https://flash.jin10.com/detail/20260510082643945800",
           "source": "金十数据",
@@ -747,7 +846,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -769,7 +868,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -791,7 +890,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -824,7 +923,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -962,6 +1061,30 @@
           "time_info": "[02时59分 ~ 04时55分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时15分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时15分]"
+        },
+        {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
           "url": "https://flash.jin10.com/detail/20260510015900096800",
           "source": "金十数据",
@@ -995,28 +1118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时46分 ~ 10时47分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
-          "url": "https://flash.jin10.com/detail/20260510184554353800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
-          "url": "https://flash.jin10.com/detail/20260510182305585800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普告诉一名法国记者，他预计“很快”会收到伊朗方面的消息。",
@@ -1058,8 +1159,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时54分 ~ 19时51分]"
+          "appearance_count": 19,
+          "time_info": "[00时54分 ~ 21时15分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -1107,7 +1208,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         }
@@ -1115,7 +1216,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -1169,6 +1270,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时59分 ~ 10时47分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
@@ -1211,8 +1323,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时11分 ~ 19时51分]"
+          "appearance_count": 6,
+          "time_info": "[14时11分 ~ 21时15分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
