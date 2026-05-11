@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T14:40:42.826500+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-05-11T18:38:22.924417+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 98,
+      "match_count": 104,
       "titles": [
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -110,6 +110,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
+          "url": "https://news.ifeng.com/c/8t2b0FtT2VP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "伊朗战争丨谈判陷入僵局，内塔尼亚胡：战争还没结束",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -127,7 +138,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -155,6 +166,17 @@
           "time_info": "10时56分"
         },
         {
+          "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
+          "url": "https://news.ifeng.com/c/8t2gHVbjqdI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "海事分析公司：伊朗可能正用快艇护航船只",
           "url": "https://wallstreetcn.com/livenews/3101143",
           "source": "华尔街见闻-快讯",
@@ -178,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "伊朗总统：以“尊严与实力”的立场巩固伊朗人民权利",
+          "url": "https://wallstreetcn.com/livenews/3101556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
@@ -761,6 +794,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "据土耳其外交消息人士透露，土耳其外长将于周二前往卡塔尔，商讨伊朗问题并确保霍尔木兹海峡的航运安全。",
+          "url": "https://flash.jin10.com/detail/20260511181652961800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "伊朗革命卫队高官：美国航母威慑时代已终结",
           "url": "https://flash.jin10.com/detail/20260511070241260800",
           "source": "金十数据",
@@ -778,7 +822,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -800,7 +844,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -825,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://www.toutiao.com/trending/7638457937534451721/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "据华尔街日报：伊朗对美国的回应中提出稀释浓缩铀并将其部分转移至第三国的建议。",
@@ -893,6 +948,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "一艘与伊朗有关的船只通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3101531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社援引消息人士报道，伊朗提交给美方的谈判草案文本强调，美方必须解除制裁。",
           "url": "https://flash.jin10.com/detail/20260511034538076800",
           "source": "金十数据",
@@ -943,7 +1009,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -1086,7 +1152,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -1108,7 +1174,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -1171,8 +1237,54 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 18时38分]"
+        },
+        {
+          "title": "中方官宣特朗普访华日期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354165&amp;topic_name=%E4%B8%AD%E6%96%B9%E5%AE%98%E5%AE%A3%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 18时38分]"
+        },
+        {
+          "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2037095315845664890",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 18时38分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.douyin.com/hot/2494766",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 18时38分]"
+        },
         {
           "title": "外交部官宣特朗普访华日期",
           "url": "https://www.toutiao.com/trending/7638433306853281331/",
@@ -1196,52 +1308,6 @@
           "time_info": "[10时56分 ~ 14时40分]"
         },
         {
-          "title": "特朗普5月13日至15日访华",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 14时40分]"
-        },
-        {
-          "title": "中方官宣特朗普访华日期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354165&amp;topic_name=%E4%B8%AD%E6%96%B9%E5%AE%98%E5%AE%A3%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 14时40分]"
-        },
-        {
-          "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2037095315845664890",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普5月13日至15日访华",
-          "url": "https://www.douyin.com/hot/2494766",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 14时40分]"
-        },
-        {
           "title": "伊朗知情人士：特朗普不满意反而更好",
           "url": "https://news.ifeng.com/c/8t246befcan",
           "source": "凤凰网",
@@ -1251,6 +1317,52 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 14时40分]"
+        },
+        {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3771944",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 18时38分]"
+        },
+        {
+          "title": "外交部介绍特朗普访华安排和中方期待",
+          "url": "https://www.toutiao.com/trending/7638111822163496490/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "外交部介绍特朗普访华安排和中方期待",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%AE%89%E6%8E%92%E5%92%8C%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "外交部介绍特朗普访华具体安排和中方期待",
+          "url": "https://www.cls.cn/detail/2367815",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "特朗普拒绝伊朗和平方案：完全不可接受！",
@@ -1278,16 +1390,17 @@
           "time_info": "[03时01分 ~ 06时45分]"
         },
         {
-          "title": "美国总统特朗普将对中国进行国事访问",
-          "url": "https://wallstreetcn.com/articles/3771944",
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
           "source": "华尔街见闻",
           "ranks": [
+            9,
             7,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 18时38分]"
         },
         {
           "title": "特朗普：联邦机构必须优先采购美国货",
@@ -1400,6 +1513,30 @@
           "time_info": "[03时01分 ~ 04时03分]"
         },
         {
+          "title": "嘴仗还没完！“是的，我特朗普，比教皇更懂圣经”",
+          "url": "https://news.ifeng.com/c/8t25hVF16bh",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 18时38分]"
+        },
+        {
+          "title": "美国总统特朗普将于5月13日至15日访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 18时38分]"
+        },
+        {
           "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
           "url": "https://wallstreetcn.com/livenews/3101173",
           "source": "华尔街见闻-快讯",
@@ -1465,17 +1602,6 @@
           "time_info": "[05时46分 ~ 07时52分]"
         },
         {
-          "title": "嘴仗还没完！“是的，我特朗普，比教皇更懂圣经”",
-          "url": "https://news.ifeng.com/c/8t25hVF16bh",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 14时40分]"
-        },
-        {
           "title": "美国驻联合国大使：特朗普在回归战争之前给予外交一切机会。",
           "url": "https://flash.jin10.com/detail/20260511010532862800",
           "source": "金十数据",
@@ -1486,18 +1612,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 03时01分]"
-        },
-        {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 14时40分]"
         },
         {
           "title": "特朗普斥伊朗“玩弄美国47年” 称不再容忍",
@@ -1572,27 +1686,59 @@
           "time_info": "[05时46分 ~ 06时45分]"
         },
         {
-          "title": "美国总统特朗普将于5月13日至15日访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 14时40分]"
-        },
-        {
           "title": "【特朗普：期待访华之旅 一定会非常精彩】中国外交部5月11日宣布，美国总统特朗普将于5月13日至15日对中国进行国事访问。5月10日播出的采访中，特朗普表示很期待访问中国，相信此次访华之旅将会很精彩。 (澎湃新闻)",
           "url": "https://wallstreetcn.com/livenews/3101400",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-11）",
+          "url": "https://flash.jin10.com/detail/20260511181334846800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "特朗普隔8年多再访华 这次有何不同",
+          "url": "https://www.toutiao.com/trending/7638483267564077119/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "外交部介绍特朗普访华具体安排和中方期待",
+          "url": "https://wallstreetcn.com/articles/3771976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "特朗普：伊朗的回应完全不可接受",
@@ -1639,6 +1785,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通电话",
           "url": "https://flash.jin10.com/detail/20260511034627624800",
           "source": "金十数据",
@@ -1656,7 +1813,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -1667,9 +1824,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "外媒如何看待特朗普访华",
+          "url": "https://www.toutiao.com/trending/7637546037642395689/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "唐湘龙：特朗普急需来中国“冲喜”",
+          "url": "https://www.toutiao.com/trending/7638499818361831466/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
@@ -1736,6 +1915,58 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 10时56分]"
+        },
+        {
+          "title": "花旗维持美股“超配”评级 看好科技与医疗等板块",
+          "url": "https://flash.jin10.com/detail/20260511181908645800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260511060044695800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时52分]"
+        },
+        {
+          "title": "英特尔美股盘前涨幅扩大至5%，据华尔街日报此前报道，苹果与英特尔达成初步的芯片制造协议。",
+          "url": "https://wallstreetcn.com/livenews/3101530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -1764,36 +1995,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 10时56分]"
-        },
-        {
-          "title": "美股三大股指期货周一开盘微跌。",
-          "url": "https://flash.jin10.com/detail/20260511060044695800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时52分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -1804,7 +2005,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         }
