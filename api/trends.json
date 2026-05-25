@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-25T08:01:57.528950+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-05-25T12:45:31.752317+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
+          "url": "https://wallstreetcn.com/articles/3772994",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 12时45分]"
+        },
         {
           "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
           "url": "https://wallstreetcn.com/livenews/3108533",
@@ -34,18 +46,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时59分 ~ 06时57分]"
-        },
-        {
-          "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
-          "url": "https://wallstreetcn.com/articles/3772994",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时01分]"
         },
         {
           "title": "阿曼与伊朗官员举行会晤，依据国际法讨论了霍尔木兹海峡航行自由的管辖原则。",
@@ -353,6 +353,28 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美国国务卿鲁比奥谈伊朗问题：将尽一切努力通过外交途径取得成功。 在伊朗问题上仍有工作在推进中。 我们现在正全力关注黎巴嫩局势。 （谈到伊朗协议）可能就在今天，但不必过度解读。",
+          "url": "https://wallstreetcn.com/livenews/3108657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 87 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2042012817000067505",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "波兰外长：如果伊朗试图通过控制霍尔木兹海峡来改变全球秩序，我们将采取立场。",
           "url": "https://flash.jin10.com/detail/20260525005729007800",
           "source": "金十数据",
@@ -414,7 +436,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -452,6 +474,28 @@
           "time_info": "00时59分"
         },
         {
+          "title": "美国国务卿鲁比奥：（关于伊朗）在核问题上有一个相当稳妥的提议，可以进行限时的谈判，希望我们能成功达成协议。",
+          "url": "https://flash.jin10.com/detail/20260525114636610800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（关于伊朗）我认为我们在能够开放霍尔木兹海峡方面有一个相当可靠的方案。",
+          "url": "https://flash.jin10.com/detail/20260525114556752800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "据福克斯新闻援引一位美国高级政府官员的话称，与伊朗的协议今天不会签署，但我们正在朝着这一目标取得进展。",
           "url": "https://flash.jin10.com/detail/20260524234144967800",
           "source": "金十数据",
@@ -461,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（关于伊朗）在考虑其他方案之前，我们将竭尽全力让外交努力取得成功。",
+          "url": "https://flash.jin10.com/detail/20260525114450171800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "据福克斯新闻援引美国高级官员：我们观察到伊朗在浓缩铀问题上做出了严肃且前所未有的让步。",
@@ -496,6 +551,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "美国国务卿鲁比奥：（关于伊朗）我们要么达成一个好的协议，要么就得以其他方式处理。",
+          "url": "https://flash.jin10.com/detail/20260525114348830800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "伊朗与阿曼举行会议商讨霍尔木兹海峡通行原则",
           "url": "https://flash.jin10.com/detail/20260524232349001800",
           "source": "金十数据",
@@ -516,12 +582,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "伊朗总统准备向世界保证不寻求核武",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%87%86%E5%A4%87%E5%90%91%E4%B8%96%E7%95%8C%E4%BF%9D%E8%AF%81%E4%B8%8D%E5%AF%BB%E6%B1%82%E6%A0%B8%E6%AD%A6%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -600,6 +677,17 @@
           "time_info": "[00时59分 ~ 08时01分]"
         },
         {
+          "title": "报道：特朗普想把美伊协议同“亚伯拉罕协议”挂钩",
+          "url": "https://wallstreetcn.com/livenews/3108666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我与美国总统特朗普都认为，与伊朗达成的任何协议必须包含消除核威胁。 这意味着必须拆除伊朗的核浓缩设施，并将其领土内的所有已浓缩核材料全部运出。 特朗普重申，以色列拥有在所有战线（包括在黎巴嫩）捍卫自身安全、抵御威胁的合法权利。 我的政策与特朗普总统的政策一样，保持坚定不移，伊朗绝不能拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3108523",
           "source": "华尔街见闻-快讯",
@@ -662,6 +750,17 @@
           "time_info": "[00时59分 ~ 02时03分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "据以色列第13频道：以色列总理内塔尼亚胡在私下谈话中承认，难以对特朗普施加压力。",
           "url": "https://flash.jin10.com/detail/20260525010916654800",
           "source": "金十数据",
@@ -690,9 +789,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "特朗普：若与伊朗达成协议，将是“良好且正当的”",
@@ -728,13 +838,24 @@
           "time_info": "04时04分"
         },
         {
+          "title": "特朗普80岁生日前接受体检，白宫仅称“年度常规检查”，外界疑虑重重",
+          "url": "https://flash.jin10.com/detail/20260525114406456800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
           "title": "特朗普称美伊协议未谈妥：封锁将持续",
           "url": "https://www.toutiao.com/trending/7643602399059250731/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         }
@@ -753,8 +874,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 12时45分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -773,28 +894,30 @@
           "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 12时45分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 12时45分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -818,12 +941,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
@@ -832,9 +966,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "油价跌破100美元，金价为何还不敢痛快反弹？",
+          "url": "https://flash.jin10.com/detail/20260525115644338800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         }
       ]
     },
