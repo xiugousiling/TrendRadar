@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T18:52:41.813809+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-05-29T21:59:34.594970+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗称击落一架美军飞机，美方回应",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 18时52分]"
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 21时59分]"
         },
         {
           "title": "美国中央司令部：伊朗国家电视台声称伊朗军队在布什尔附近击落了一架美国飞机为不实消息。事实上没有美国飞机被击落，所有美国空中资产均完好。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：在与阿曼外长的高效通话中，表达了伊朗在面对任何威胁时对阿曼的支持，就霍尔木兹海峡及未来的管理进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260529215247300800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "【伊朗军方称在布什尔附近拦截一架美国无人机】一位军方消息人士证实，在伊朗布什尔附近拦截了一架入侵的美国无人机。 这位军方消息人士称，拦截行动是通过向该无人机发射防御导弹完成的。 当天稍早前，据伊朗方面消息，伊朗武装部队从南部地区向特定目标发射了导弹。 伊朗南部布什尔省有该国唯一的核电站——布什尔核电站，其与科威特隔海相望，距离大约300公里。（央视）",
@@ -132,7 +143,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -157,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "美联储副主席鲍曼：现在判断伊朗冲突对通胀的影响还为时过早",
+          "url": "https://wallstreetcn.com/livenews/3111469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "据伊朗国家媒体：伊朗布什尔听到爆炸声。",
@@ -313,6 +335,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：在对方采取行动之前，伊朗不会采取任何行动。",
+          "url": "https://wallstreetcn.com/livenews/3111456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "伊朗武装部队从南部地区朝着多个特定目标发射导弹。（FARS）",
           "url": "https://wallstreetcn.com/livenews/3110915",
           "source": "华尔街见闻-快讯",
@@ -330,7 +363,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -371,8 +404,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 21时59分]"
+        },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
@@ -383,17 +428,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时11分 ~ 07时15分]"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 18时52分]"
         },
         {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
@@ -431,6 +465,17 @@
           "time_info": "[10时59分 ~ 14时59分]"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，科技行业ETF涨超2%，全球科技股指数ETF、半导体ETF涨1.62%，日常消费品ETF、能源业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3111493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
           "url": "https://wallstreetcn.com/livenews/3110886",
           "source": "华尔街见闻-快讯",
@@ -440,6 +485,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "美股iShares科技软件行业ETF涨2.4%，创四个月新高。",
+          "url": "https://flash.jin10.com/detail/20260529214903634800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "马斯克表示，有关SpaceX下调IPO估值目标的报道是“虚假的”。特斯拉美股目前仍跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3111486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美股盘初：费城半导体指数涨超1%，戴尔科技涨约33%，超微电脑涨约9%",
+          "url": "https://wallstreetcn.com/livenews/3111484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
@@ -475,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
@@ -519,6 +608,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3111466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260529213755191800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "戴尔(DELL.N)美股盘初飙升33%，创下2024年以来最大涨幅。",
+          "url": "https://flash.jin10.com/detail/20260529213319348800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "金十图示：2026年05月28日（周四）美股热门股票行情一览（美股收盘）",
@@ -566,11 +688,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 18时52分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 21时59分]"
         },
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -625,8 +748,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 18时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 21时59分]"
         },
         {
           "title": "美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）",
@@ -646,7 +769,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -747,9 +870,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 21时59分]"
         },
         {
           "title": "梁文锋迁移代码到昇腾",
@@ -758,7 +881,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
@@ -814,9 +937,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 21时59分]"
         },
         {
           "title": "OpenAI启动生物防御计划",
@@ -825,7 +948,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
