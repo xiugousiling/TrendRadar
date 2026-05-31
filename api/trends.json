@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T15:44:54.570933+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-05-31T18:14:39.988790+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -48,7 +48,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -81,11 +81,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 18时14分]"
+        },
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时37分 ~ 15时44分]"
+          "time_info": "[15时44分 ~ 18时14分]"
         },
         {
           "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
@@ -125,6 +138,19 @@
           "time_info": "[01时02分 ~ 07时08分]"
         },
         {
+          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3111866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 18时14分]"
+        },
+        {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
           "url": "https://wallstreetcn.com/livenews/3111814",
           "source": "华尔街见闻-快讯",
@@ -137,18 +163,6 @@
           "time_info": "[01时02分 ~ 04时54分]"
         },
         {
-          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3111866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 15时44分]"
-        },
-        {
           "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
           "url": "https://wallstreetcn.com/livenews/3111801",
           "source": "华尔街见闻-快讯",
@@ -158,17 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 03时11分]"
-        },
-        {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
         },
         {
           "title": "涉及美伊和谈协议，特朗普发出最新威胁",
@@ -199,7 +202,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -232,7 +235,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -243,7 +246,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -254,7 +257,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -265,7 +268,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -276,7 +279,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -290,12 +293,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
+        },
+        {
+          "title": "多名艺人辞演 特朗普要当国庆开场秀主角",
+          "url": "https://flash.jin10.com/detail/20260531165738443800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗准备为哈梅内伊举行盛大葬礼",
@@ -366,6 +380,50 @@
           "time_info": "[06时01分 ~ 07时08分]"
         },
         {
+          "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
+          "url": "https://wallstreetcn.com/livenews/3111918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "伊朗批准20种农产品及加工产品出口",
+          "url": "https://flash.jin10.com/detail/20260531180038627800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3111914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：敌人企图通过施加经济压力和发动媒体战来煽动分裂，破坏国家凝聚力。",
+          "url": "https://flash.jin10.com/detail/20260531175240266800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
           "url": "https://flash.jin10.com/detail/20260531024236027800",
           "source": "金十数据",
@@ -434,6 +492,31 @@
           "time_info": "[04时54分 ~ 07时08分]"
         },
         {
+          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
+          "url": "https://v.ifeng.com/c/8tZLWOELypO",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 18时14分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3111863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 18时14分]"
+        },
+        {
           "title": "伊朗称对霍尔木兹海峡航运实施全面管理",
           "url": "https://wallstreetcn.com/livenews/3111848",
           "source": "华尔街见闻-快讯",
@@ -473,28 +556,37 @@
           "time_info": "[06时01分 ~ 11时37分]"
         },
         {
-          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
-          "url": "https://v.ifeng.com/c/8tZLWOELypO",
-          "source": "凤凰网",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，外交的工作是将军事领域获得的胜利转化为政治和法律成果。",
+          "url": "https://flash.jin10.com/detail/20260531174422454800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            11
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 15时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
-          "url": "https://wallstreetcn.com/livenews/3111863",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗伊斯兰革命卫队海军表示，我们的部队坚定而有力地继续对霍尔木兹海峡进行监控和智能管控。",
+          "url": "https://flash.jin10.com/detail/20260531173432347800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            18
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 15时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
+          "url": "https://flash.jin10.com/detail/20260531172555462800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
@@ -506,6 +598,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队宣布，过去24小时内有28艘包括油轮、集装箱船及其他商船在获得许可后，经过伊朗海军的协调和安全保障，从霍尔木兹海峡通过。",
+          "url": "https://flash.jin10.com/detail/20260531163534017800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
+          "url": "https://www.zhihu.com/question/2043802300246915002",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时11分 ~ 07时08分]"
         }
       ]
     },
@@ -533,30 +666,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 15时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
-          "url": "https://www.zhihu.com/question/2040472846393161206",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 07时08分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 18时14分]"
         }
       ]
     },
