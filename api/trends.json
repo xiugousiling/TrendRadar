@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-15T12:04:04.800346+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-06-15T18:54:24.797890+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 78,
+      "match_count": 89,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
           "url": "https://wallstreetcn.com/articles/3774614",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 12时04分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 18时54分]"
         },
         {
           "title": "伊朗披露美伊谈判备忘录细节",
@@ -97,6 +98,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "录音显示美军仍在执行对伊朗海上封锁",
+          "url": "https://flash.jin10.com/detail/20260615182853855800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "英国、法国、德国和意大利四国领导人联合声明：我们热烈欢迎美国与伊朗宣布达成谅解备忘录。 伊朗绝不能获得核武器。 作为对伊朗在其核计划上采取明确、可验证步骤的回应，我们准备解除相关制裁。",
           "url": "https://wallstreetcn.com/livenews/3119304",
           "source": "华尔街见闻-快讯",
@@ -140,6 +152,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "录音显示美军仍在执行对伊朗海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3119649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "录音显示美军仍在执行对伊朗海上封锁",
+          "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "伊朗最高联合军事指挥部：'随时准备开火，瞄准敌人心脏'。",
@@ -186,6 +220,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "录音显示美军仍在执行对伊朗海上封锁。（新华社）",
+          "url": "https://flash.jin10.com/detail/20260615182814401800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "伊朗媒体公布美伊14条谅解备忘录草案细节",
           "url": "https://wallstreetcn.com/livenews/3119302",
           "source": "华尔街见闻-快讯",
@@ -195,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "伊朗国足教练：政治和签证问题影响备赛",
+          "url": "https://wallstreetcn.com/livenews/3119646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "据今日以色列：伊朗领空已关闭。",
@@ -268,6 +324,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 05时10分]"
+        },
+        {
+          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 18时54分]"
+        },
+        {
+          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 18时54分]"
         },
         {
           "title": "美国战争部长赫格塞斯：美方处于“周日签署伊朗协议”的正轨之上。 伊朗核材料将被销毁。 “文件”显示，伊朗永远都不会拥有、寻求、购买核武器。 “自由计划”（project Freedom）从未停止。 可能会在30天内清除霍尔木兹海峡的水雷。（CBS）",
@@ -346,33 +426,11 @@
           "time_info": "[12时03分 ~ 12时04分]"
         },
         {
-          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
-        },
-        {
           "title": "伊朗武装部队：成功使美以承认失败",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%EF%BC%9A%E6%88%90%E5%8A%9F%E4%BD%BF%E7%BE%8E%E4%BB%A5%E6%89%BF%E8%AE%A4%E5%A4%B1%E8%B4%A5",
           "source": "百度热搜",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
-        },
-        {
-          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -433,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "伊朗队世界杯“特种兵式”参赛",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E2%80%9C%E7%89%B9%E7%A7%8D%E5%85%B5%E5%BC%8F%E2%80%9D%E5%8F%82%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "英法德意领导人联合声明：我们准备与美国、伊朗和国际原子能机构合作。",
@@ -512,6 +581,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "土耳其消息人士称，伊朗在通话中感谢了土耳其为达成协议所作的贡献。",
+          "url": "https://flash.jin10.com/detail/20260615181709797800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "伊朗：将寻求解除所有一级和二级制裁。",
           "url": "https://wallstreetcn.com/livenews/3119293",
           "source": "华尔街见闻-快讯",
@@ -565,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "土耳其外交部长与伊朗外长通话，讨论美伊协议。",
+          "url": "https://flash.jin10.com/detail/20260615181447169800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "美国副总统万斯：伊朗协议意味着伊朗将永远不会拥有核武器，如果伊朗遵守，协议将使中东更具投资吸引力。",
@@ -864,6 +955,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "伊朗队花5小时抵美 飞机试2次才落地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E8%8A%B15%E5%B0%8F%E6%97%B6%E6%8A%B5%E7%BE%8E+%E9%A3%9E%E6%9C%BA%E8%AF%952%E6%AC%A1%E6%89%8D%E8%90%BD%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "伊朗：以色列袭击黎巴嫩使得伊美对话“变得不可能”",
           "url": "https://wallstreetcn.com/livenews/3119236",
           "source": "华尔街见闻-快讯",
@@ -873,6 +975,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "伊朗队抵美限时参赛踢完几小时离境",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E6%8A%B5%E7%BE%8E%E9%99%90%E6%97%B6%E5%8F%82%E8%B5%9B%E8%B8%A2%E5%AE%8C%E5%87%A0%E5%B0%8F%E6%97%B6%E7%A6%BB%E5%A2%83%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "报道：根据协议伊朗将在60天内允许船只免费通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3119588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "伊朗议员：对伊美谅解备忘录的部分批评失实",
@@ -889,7 +1013,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -901,6 +1025,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 07时08分]"
+        },
+        {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 18时54分]"
         },
         {
           "title": "特朗普宣布美伊达成和平协议",
@@ -923,17 +1059,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时07分 ~ 07时08分]"
-        },
-        {
-          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
-          "url": "https://wallstreetcn.com/articles/3774634",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
         },
         {
           "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
@@ -994,6 +1119,17 @@
           "time_info": "[03时24分 ~ 07时08分]"
         },
         {
+          "title": "特朗普称将允许伊朗进行低水平铀浓缩",
+          "url": "https://news.ifeng.com/c/8tyryak6dFQ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，霍尔木兹海峡很快将重新开放商业活动！",
           "url": "https://flash.jin10.com/detail/20260615043701037800",
           "source": "金十数据",
@@ -1014,6 +1150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
+          "url": "https://www.cls.cn/detail/2400017",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普进行电话会谈。",
@@ -1049,6 +1196,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 05时10分]"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 18时54分]"
         },
         {
           "title": "特朗普批评以色列“干扰”美伊签署协议：“非常接近”达成美伊协议，将给黎巴嫩带来和平",
@@ -1103,17 +1262,6 @@
           "source": "财联社热门",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
-        },
-        {
-          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1219,6 +1367,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "特朗普称将允许伊朗进行低水平铀浓缩",
+          "url": "https://wallstreetcn.com/livenews/3119628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普对俄罗斯总统普京表示，结束乌克兰战争至关重要，并表示他准备提供帮助。",
           "url": "https://flash.jin10.com/detail/20260615002209716800",
           "source": "金十数据",
@@ -1283,6 +1442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "据以色列第12频道：美国总统特朗普称，我与内塔尼亚胡通话时告诉他：“你到底在干什么？？？”",
@@ -1384,6 +1554,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-15）",
+          "url": "https://flash.jin10.com/detail/20260615180514262800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "据以色列第13频道：以方评估认为，特朗普旨在阻止伊朗发动打击的努力将取得成功。",
           "url": "https://flash.jin10.com/detail/20260615013436769800",
           "source": "金十数据",
@@ -1429,9 +1610,37 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊达成协议，美股盘前半导体股普涨，SpaceX涨超6%，美债收益率全线下行，油价重挫4%",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "美债收益率涨多高，才会真正威胁美股？高盛：10年期美债触及5%",
+          "url": "https://wallstreetcn.com/articles/3774620",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     },
