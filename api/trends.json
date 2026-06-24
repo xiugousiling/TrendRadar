@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T07:08:49.121432+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-06-24T11:01:05.107575+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -102,6 +102,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 04时02分]"
+        },
+        {
+          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
+          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
+        },
+        {
+          "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
+          "url": "https://www.cls.cn/detail/2407367",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
+        },
+        {
+          "title": "特朗普政府将提供175亿美元贷款 加速10座大型核反应堆部署",
+          "url": "https://www.cls.cn/detail/2407308",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
         },
         {
           "title": "市场消息：美国总统特朗普在谈及就业市场情况时，称礼来(LLY.N)是“伟大的制药公司”，还提及礼来的投资。",
@@ -357,6 +401,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美参议院通过决议要求特朗普结束对伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3123726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
           "title": "特朗普谈伊朗：伊朗关于国际原子能机构核查的说法是错误的。核查人员将在适当的时候抵达现场。",
           "url": "https://flash.jin10.com/detail/20260624011732048800",
           "source": "金十数据",
@@ -451,7 +506,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
@@ -459,7 +514,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -554,6 +609,17 @@
           "time_info": "[01时52分 ~ 04时02分]"
         },
         {
+          "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
+          "url": "https://news.ifeng.com/c/8uCdaH694Zv",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
+        },
+        {
           "title": "嘉年华邮轮：伊朗战事冲击预订业务，下调业绩预期",
           "url": "https://wallstreetcn.com/livenews/3123589",
           "source": "华尔街见闻-快讯",
@@ -564,6 +630,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 04时02分]"
+        },
+        {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
         },
         {
           "title": "以色列驻美大使：将伊朗纳入黎巴嫩问题谈判无异于一场“灾难”",
@@ -627,7 +704,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -646,8 +723,31 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2407361",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 11时01分]"
+        },
+        {
+          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
+          "url": "https://www.cls.cn/detail/2407391",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
+        },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=24&Refer=top",
@@ -663,15 +763,15 @@
           "time_info": "[01时52分 ~ 07时08分]"
         },
         {
-          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2407361",
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
           "source": "财联社热门",
           "ranks": [
-            3
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
         },
         {
           "title": "联邦快递(FDX.N)美股盘后延续晚间跌势，现跌约6%。",
@@ -703,7 +803,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -714,7 +814,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -725,7 +825,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -736,7 +836,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -758,7 +858,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -799,7 +899,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -811,6 +911,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 07时08分]"
+        },
+        {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -831,9 +942,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
         },
         {
           "title": "德银上调对短期美债收益率的预测",
@@ -853,9 +975,63 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
+          "url": "https://www.zhihu.com/question/2052707670289806571",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 07时08分]"
+        },
+        {
+          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时52分 ~ 07时08分]"
+        },
+        {
+          "title": "金价跌到位了吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%88%B0%E4%BD%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 05时48分]"
+        },
+        {
+          "title": "金十图示：2026年06月24日（周三）上海金早盘价为890.07元/克，较国际金价(888.73元/克)，高1.34元/克",
+          "url": "https://flash.jin10.com/detail/20260624103112388800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         }
       ]
     },
@@ -932,7 +1108,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -943,59 +1119,27 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "titles": [
         {
-          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
-          "url": "https://www.zhihu.com/question/2052707670289806571",
-          "source": "知乎",
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 07时08分]"
-        },
-        {
-          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 07时08分]"
-        },
-        {
-          "title": "金价跌到位了吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%88%B0%E4%BD%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时47分 ~ 05时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "time_info": "[10时59分 ~ 11时01分]"
+        },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
