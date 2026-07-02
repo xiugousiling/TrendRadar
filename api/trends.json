@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-07-02T11:23:05.241158+08:00",
-  "total_titles_processed": 762,
-  "failed_sources": [],
+  "generated_at": "2026-07-02T15:32:07.598688+08:00",
+  "total_titles_processed": 921,
+  "failed_sources": [
+    "jin10",
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国总统特朗普：我们正轻松赢得一场战争。 我们在伊朗问题上进展顺利，就像在委内瑞拉那样。",
@@ -36,9 +39,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 15时32分]"
         },
         {
           "title": "美财政部公布“特朗普账户”投资组合标的 主投宽基标普500指数ETF",
@@ -58,17 +72,6 @@
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
-        },
-        {
-          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
-          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -141,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "特朗普称台积电将扩大投资规模，台积电不予置评",
+          "url": "https://wallstreetcn.com/livenews/3127868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美国贸易代表：特朗普任期剩余时间内，可能与加拿大和墨西哥分别签署贸易协议。",
@@ -256,7 +270,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "【伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为】伊朗外交部副部长、伊方技术谈判代表团团长加里巴巴迪表示，在当天于多哈举行的伊朗、卡塔尔、巴基斯坦三方会谈中，伊朗代表团提出并审查了美国违反美伊谅解备忘录第一条关于结束黎巴嫩战事的承诺，并讨论了有关美国加强地区军事装备和兵力部署的报道和美国官员发表的一些具有威胁性及干涉主义的言论。伊朗代表团在会谈中强调，美伊谅解备忘录中的各项承诺是一个整体，不能单独割裂看待。 加里巴巴迪宣布，将组建监督小组并通过直接沟通渠道通报和审查涉及美伊谅解备忘录的违规行为。他指出，伊朗代表在与卡塔尔央行等官员的会谈中已决定将部分解冻的60亿美元资金用于根据伊朗需求采购必要物资。他同时澄清称“伊朗与美国代表团没有在多哈举行会晤”。（央视）",
@@ -340,6 +354,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 03时52分]"
+        },
+        {
+          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
+          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时32分]"
+        },
+        {
+          "title": "伊朗称美若无法约束宠物伊朗将出手",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%8B%A5%E6%97%A0%E6%B3%95%E7%BA%A6%E6%9D%9F%E5%AE%A0%E7%89%A9%E4%BC%8A%E6%9C%97%E5%B0%86%E5%87%BA%E6%89%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时32分]"
         },
         {
           "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录，重点推动资产解冻",
@@ -455,7 +491,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
@@ -474,11 +510,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 11时23分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 15时32分]"
+        },
+        {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时32分]"
         },
         {
           "title": "美股",
@@ -680,8 +728,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 15时32分]"
         },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
@@ -756,6 +804,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 15时32分]"
+        },
+        {
           "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
           "url": "https://wallstreetcn.com/livenews/3127564",
           "source": "华尔街见闻-快讯",
@@ -766,17 +826,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 03时52分]"
-        },
-        {
-          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
-          "url": "https://www.cls.cn/detail/2414683",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
         }
       ]
     },
