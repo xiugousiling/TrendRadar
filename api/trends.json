@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T15:17:38.379650+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-07-06T20:03:58.924358+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 20时03分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -276,6 +276,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在很多事情上看法一致。 我与特朗普的关系“没问题”。 尚未确定访美日期。",
+          "url": "https://wallstreetcn.com/livenews/3129367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们并不是处于永久战争状态。我和美国总统特朗普一起促成了四项和平协议。寻求我们保护的，不仅仅是黎巴嫩的基督徒，还有德鲁兹人、穆斯林、逊尼派穆斯林，以及相当多的什叶派穆斯林。",
           "url": "https://flash.jin10.com/detail/20260705232818933800",
           "source": "金十数据",
@@ -285,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "油价跌到70不是市场认输，是特朗普在抢筹码！",
+          "url": "https://flash.jin10.com/detail/20260706193101613800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我和特朗普在愿景上意见一致，虽然可能会出现分歧，但我们坦率而公开地讨论它们，并且通常能达成解决方案。",
@@ -329,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在许多问题上意见一致。我与特朗普的关系很好。",
+          "url": "https://flash.jin10.com/detail/20260706192506914800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
@@ -348,27 +381,29 @@
           "time_info": "[00时06分 ~ 07时11分]"
         },
         {
+          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
+          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 20时03分]"
+        },
+        {
           "title": "伊朗最高领袖发布任免令",
           "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
           "source": "凤凰网",
           "ranks": [
             6,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 15时17分]"
-        },
-        {
-          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
-          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 20时03分]"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -494,7 +529,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
@@ -502,7 +537,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -538,6 +573,17 @@
           "time_info": "[10时58分 ~ 10时59分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 20时03分]"
+        },
+        {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
           "url": "https://flash.jin10.com/detail/20260706070621012800",
           "source": "金十数据",
@@ -549,26 +595,27 @@
           "time_info": "07时11分"
         },
         {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 20时03分]"
+        },
+        {
+          "title": "SK海力士正式启动美股上市营销推介流程",
+          "url": "https://flash.jin10.com/detail/20260706192535279800",
+          "source": "金十数据",
+          "ranks": [
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "20时03分"
         }
       ]
     },
@@ -583,7 +630,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -594,7 +641,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
