@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T16:21:57.809163+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-10T19:50:50.847132+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "美军称再次对伊朗发起打击",
@@ -26,8 +26,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 19时50分]"
         },
         {
           "title": "伊朗：已发射10枚弹道导弹，打击驻约旦美军基地",
@@ -63,6 +76,17 @@
           "time_info": "08时03分"
         },
         {
+          "title": "卡塔尔与美国和伊朗进行谈判，以缓和局势。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3132032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
           "url": "https://wallstreetcn.com/livenews/3131587",
           "source": "华尔街见闻-快讯",
@@ -72,18 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        },
-        {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 16时21分]"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -186,7 +198,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -268,6 +280,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：我们强烈谴责巴基斯坦西南部发生的恐怖袭击事件，该事件导致多名巴基斯坦公民伤亡。我代表伊朗向遇难者家属、巴基斯坦人民和政府表示深切慰问和诚挚哀悼。",
+          "url": "https://flash.jin10.com/detail/20260710191700501800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "美国军方称“伊朗并未控制霍尔木兹海峡”",
           "url": "https://wallstreetcn.com/livenews/3131556",
           "source": "华尔街见闻-快讯",
@@ -299,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "据纽约时报：卡塔尔正与美国和伊朗进行谈判以缓解紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260710191550843800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "美伊紧张局势再度升温，伊朗紧急运出约1100万桶原油",
@@ -429,6 +463,18 @@
           "time_info": "00时27分"
         },
         {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
+        },
+        {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
           "url": "https://news.ifeng.com/c/8ucxOCMpd4c",
           "source": "凤凰网",
@@ -475,18 +521,6 @@
           "time_info": "[04时46分 ~ 06时21分]"
         },
         {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
-        },
-        {
           "title": "特朗普称“日本导弹”打美国航母，白宫回应",
           "url": "https://news.ifeng.com/c/8udg4food2U",
           "source": "凤凰网",
@@ -494,8 +528,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
+          "time_info": "[16时21分 ~ 19时50分]"
         },
         {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
@@ -520,17 +565,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普“把自己困住了”，陷入两难",
-          "url": "https://news.ifeng.com/c/8uddEUs34xh",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
@@ -649,7 +683,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -668,7 +702,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -699,11 +733,12 @@
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
         },
         {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
@@ -776,6 +811,28 @@
           "time_info": "[04时46分 ~ 06时21分]"
         },
         {
+          "title": "META美股盘前股价涨幅扩大至3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3132028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
           "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
           "url": "https://wallstreetcn.com/livenews/3131557",
           "source": "华尔街见闻-快讯",
@@ -829,6 +886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "达美航空第二季度调整后营收为176.7亿美元，市场预期为175.3亿美元。 第二季度调整后净利润为10.3亿美元，市场预期为9.852亿美元。 第二季度调整后每股收益为1.56美元，市场预期为1.51美元。 达美航空仍预计全年调整后每股收益为6.50-7.50美元，市场预期为5.95美元。 达美航空美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3131990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
@@ -842,11 +910,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 19时50分]"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -899,7 +968,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
