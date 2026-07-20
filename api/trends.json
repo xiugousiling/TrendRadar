@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:17:11.320397+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-07-20T17:59:03.401996+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -31,6 +31,17 @@
           "time_info": "[01时58分 ~ 10时45分]"
         },
         {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 17时59分]"
+        },
+        {
           "title": "协议成废纸,伊朗掀桌硬刚美国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
           "source": "贴吧",
@@ -45,15 +56,26 @@
           "time_info": "[00时57分 ~ 14时17分]"
         },
         {
-          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
-          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
           "source": "凤凰网",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时44分 ~ 14时17分]"
+          "time_info": "[14时16分 ~ 17时59分]"
+        },
+        {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时16分 ~ 17时59分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -69,17 +91,6 @@
           "time_info": "[00时57分 ~ 07时55分]"
         },
         {
-          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
-          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 14时17分]"
-        },
-        {
           "title": "伊朗外长曝最高领袖遇袭预案代号",
           "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
           "source": "凤凰网",
@@ -89,17 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 10时45分]"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
@@ -666,7 +666,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -710,7 +710,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -746,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "伊朗外交部证实第三方已拿出全新调解方案，直言“打和谈”并行不悖",
+          "url": "https://flash.jin10.com/detail/20260720172928781800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在试图通过霍尔木兹海峡南部航线后被炸毁。 只要美国在该地区的行动继续，霍尔木兹海峡对于石化产品或“任何一滴油气”的运输都将是不安全的。",
@@ -904,6 +915,18 @@
           "time_info": "[04时44分 ~ 06时51分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时16分 ~ 17时59分]"
+        },
+        {
           "title": "谁将与特朗普同举大力神杯",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "bilibili 热搜",
@@ -952,17 +975,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时55分]"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 14时17分]"
         },
         {
           "title": "特朗普摸大力神杯",
@@ -1046,7 +1058,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
@@ -1057,17 +1069,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时51分]"
-        },
-        {
           "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
@@ -1077,8 +1078,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[07时55分 ~ 17时59分]"
+        },
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时51分]"
         }
       ]
     },
