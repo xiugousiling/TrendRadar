@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T07:00:25.137488+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-07-28T08:09:23.369500+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8v6kAaPHBHd",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 08时09分]"
         },
         {
           "title": "美国总统特朗普：有理由善待通用汽车。",
@@ -41,26 +42,37 @@
           "time_info": "03时24分"
         },
         {
-          "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
-          "url": "https://flash.jin10.com/detail/20260728064510542800",
-          "source": "金十数据",
+          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
+          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
+          "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时00分"
+          "time_info": "08时09分"
         },
         {
-          "title": "特朗普力挺沃什降息，喊美国利率要全球最低，炮轰美联储“阻降派”",
-          "url": "https://flash.jin10.com/detail/20260728063552100800",
+          "title": "特朗普再给伊朗最后外交窗口：谈判失败将恢复“强力军事行动”",
+          "url": "https://flash.jin10.com/detail/20260728072856415800",
           "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时00分"
+          "time_info": "08时09分"
+        },
+        {
+          "title": "特朗普为何突然叫停对伊空袭？潜在“最直接原因”曝光：攻击性弹药消耗过多",
+          "url": "https://wallstreetcn.com/livenews/3140564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "一名官员称：美国总统特朗普将与即将到访的以色列总理讨论伊朗问题和“亚伯拉罕”协议。（彭博）",
@@ -74,6 +86,42 @@
           "time_info": "03时24分"
         },
         {
+          "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
+          "url": "https://flash.jin10.com/detail/20260728064510542800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普力挺沃什降息，喊美国利率要全球最低，炮轰美联储“阻降派”",
+          "url": "https://flash.jin10.com/detail/20260728063552100800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 08时09分]"
+        },
+        {
+          "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260728061247016800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 08时09分]"
+        },
+        {
           "title": "美国总统特朗普被问及本周美联储货币政策会议，宣称：成本正在迅速下降。 利率应该下降，美国应该拥有全球最低的利率。 美联储主席沃什很棒，但他有理事会。",
           "url": "https://wallstreetcn.com/livenews/3140440",
           "source": "华尔街见闻-快讯",
@@ -84,6 +132,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 03时24分]"
+        },
+        {
+          "title": "周二亚太盘初，WTI原油期货低开1.1%，跌至81.68美元/桶，投资者关注特朗普所谓的美国与伊朗正在“对话”。",
+          "url": "https://wallstreetcn.com/livenews/3140533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 08时09分]"
+        },
+        {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
@@ -152,17 +223,6 @@
           "time_info": "05时09分"
         },
         {
-          "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
-          "url": "https://flash.jin10.com/detail/20260728061247016800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时00分"
-        },
-        {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
           "url": "https://wallstreetcn.com/livenews/3140503",
           "source": "华尔街见闻-快讯",
@@ -218,17 +278,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "周二亚太盘初，WTI原油期货低开1.1%，跌至81.68美元/桶，投资者关注特朗普所谓的美国与伊朗正在“对话”。",
-          "url": "https://wallstreetcn.com/livenews/3140533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时00分"
-        },
-        {
           "title": "美国总统特朗普：交通部长Duffy已经要求在美国生产小型车和微型车。",
           "url": "https://wallstreetcn.com/livenews/3140491",
           "source": "华尔街见闻-快讯",
@@ -246,7 +295,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
         },
@@ -279,7 +328,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
         },
@@ -334,7 +383,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
         },
@@ -353,7 +402,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股",
@@ -362,11 +411,12 @@
           "ranks": [
             2,
             6,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 08时09分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -387,11 +437,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 08时09分]"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
@@ -402,8 +453,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 08时09分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，美股高开低走，阿斯麦一度跌8%，中概股逆市收涨，美元走V",
@@ -415,6 +466,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时00分]"
+        },
+        {
+          "title": "美股迎芯片风暴 苹果重返市值第一",
+          "url": "https://www.toutiao.com/trending/7667348037127114246/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
@@ -432,11 +494,12 @@
           "url": "https://www.cls.cn/detail/2438385",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时00分]"
+          "appearance_count": 3,
+          "time_info": "[06时59分 ~ 08时09分]"
         },
         {
           "title": "加密货币市场于美股盘初跳水",
@@ -471,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美股上演芯片风暴 苹果重返市值第一",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%8A%E6%BC%94%E8%8A%AF%E7%89%87%E9%A3%8E%E6%9A%B4+%E8%8B%B9%E6%9E%9C%E9%87%8D%E8%BF%94%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "铿腾电子（Cadence Design）二季度营收15.8亿美元，分析师预期15.7亿美元。 二季度调整后每股收益（EPS）为2.11美元，分析师预期2.06美元。 预计全年营收62.6亿-63.4亿美元，公司原本预计61.3亿-62.3亿美元。 预计全年调整后EPS为8.05-8.15美元，公司原本预计7.58-7.95美元。 预计三季度营收16.0亿-16.3亿美元，分析师预期15.5亿美元。 预计三季度调整后EPS为2.01-2.07美元，分析师预期1.95美元。 铿腾电子（CDNS）美股盘后涨7%。",
@@ -564,7 +638,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -589,26 +663,16 @@
           "time_info": "[01时42分 ~ 07时00分]"
         },
         {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时00分]"
-        },
-        {
           "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 08时09分]"
         },
         {
           "title": "对伊朗停火，美国这次是“不打了”还是“打不了”？",
@@ -618,8 +682,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 08时09分]"
         },
         {
           "title": "对伊朗停火 美国是不打了还是打不了",
@@ -629,7 +693,19 @@
             18,
             16,
             8,
-            15
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 08时09分]"
+        },
+        {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -690,6 +766,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 03时24分]"
+        },
+        {
+          "title": "美称若谈判破裂将强力打击伊朗",
+          "url": "https://www.toutiao.com/trending/7667350797637652011/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "据伊朗媒体Fars News：消息人士称，以色列炮击了黎巴嫩南部的阿里·塔希尔高地。",
@@ -771,8 +858,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 08时09分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -800,8 +887,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 08时09分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -810,7 +897,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
         }
@@ -870,11 +957,12 @@
           "url": "https://wallstreetcn.com/livenews/3140540",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 08时09分]"
         }
       ]
     },
