@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T13:39:15.634436+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-07-30T16:23:34.581357+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -22,6 +22,18 @@
           "time_info": "[00时20分 ~ 13时39分]"
         },
         {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时23分]"
+        },
+        {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -35,28 +47,30 @@
           "time_info": "[00时20分 ~ 04时12分]"
         },
         {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
-        },
-        {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
           "source": "澎湃新闻",
           "ranks": [
             20,
             19,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
+          "ranks": [
+            20,
+            16
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时20分 ~ 13时39分]"
+          "time_info": "[02时06分 ~ 16时23分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -90,17 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
-        },
-        {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时06分 ~ 13时39分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -143,8 +146,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时23分]"
         },
         {
           "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
@@ -154,19 +157,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时23分]"
         },
         {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时23分]"
         },
         {
           "title": "距离美联储宣布决议声明不到60分钟，特朗普顾问：相信沃什会做正确的事",
@@ -178,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "降息希望落空！特朗普再次力挺沃什 矛头直指美联储理事会",
+          "url": "https://www.cls.cn/detail/2440817",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
@@ -326,7 +341,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -360,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "美股盘前，存储概念股持续走低，美光科技跌超2%，SK海力士跌3.5%；Meta Platforms下跌超8%，公司营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低；微软盘前上涨7%，上季业绩强劲，云收入增超40%，资本支出低于预期；高通盘前跌超5%，Q3财季净利润同比下滑25%，上调产品售价并给出疲软业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3142278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -407,6 +433,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
+          "url": "https://www.cls.cn/detail/2440809",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "Meta美股盘后跌幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3141919",
           "source": "华尔街见闻-快讯",
@@ -438,6 +475,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "美股存储概念股盘前走低，美光科技(MU.O)跌2.6%，SK海力士(SKHY.O)跌4.4%，西部数据(WDC.O)跌1.2%，闪迪(SNDK.O)跌1.5%，希捷科技(STX.O)跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260730160358409800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "Meta Platforms(META.O)美股盘前下跌8.3%，二季度自由现金流下降91%。微软(MSFT.O)盘前上涨7%，第四财季云业务收入增长超过市场预期。高通(QCOM.O)盘前下跌5.7%，Arm(ARM.O)盘前下跌7.2%。",
+          "url": "https://flash.jin10.com/detail/20260730160146877800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
@@ -564,8 +623,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时23分]"
         },
         {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
@@ -618,7 +677,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -640,7 +699,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         }
@@ -658,8 +717,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时23分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -748,8 +807,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时23分]"
         },
         {
           "title": "彭博：美债收益率表明沃什如此有耐心是错的",
