@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T07:02:06.216518+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-08-05T10:14:16.335510+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 10时14分]"
         },
         {
           "title": "伊朗总统回应辞职传闻",
@@ -26,21 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时02分]"
-        },
-        {
-          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
-          "url": "https://www.cls.cn/detail/2445217",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 10时14分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -50,6 +37,19 @@
             25,
             21,
             28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 10时14分]"
+        },
+        {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -142,7 +142,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -205,7 +205,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -219,6 +219,19 @@
           "time_info": "[01时46分 ~ 07时02分]"
         },
         {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 10时14分]"
+        },
+        {
           "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
           "url": "https://wallstreetcn.com/articles/3778638",
           "source": "华尔街见闻",
@@ -230,27 +243,27 @@
           "time_info": "[01时46分 ~ 05时11分]"
         },
         {
-          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2445568",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时02分]"
-        },
-        {
           "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
           "url": "https://www.cls.cn/detail/2445760",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 10时14分]"
+        },
+        {
+          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
+          "url": "https://www.cls.cn/detail/2445802",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时02分]"
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
@@ -262,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "标普500指数涨超2%，美股费城半导体指数涨幅扩大至7.15%。英伟达股价上涨2.49%，博通股价上涨7.49%，超威半导体股价上涨9.08%，阿斯麦ADR上涨3.63%，英特尔股价上涨10.87%。 道指涨1090点，涨幅2.05%。",
@@ -281,7 +305,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -292,9 +316,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美股再创新高之际迎“季节性陷阱”，投资者是否该撤退？",
+          "url": "https://flash.jin10.com/detail/20260805095608658800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
@@ -333,7 +368,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -359,13 +394,24 @@
           "time_info": "[07时01分 ~ 07时02分]"
         },
         {
+          "title": "卡塔尔元首与特朗普就美伊局势通话",
+          "url": "https://www.toutiao.com/trending/7670305492274544686/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
           "title": "特朗普：我的真实民调正处于最好水平",
           "url": "https://flash.jin10.com/detail/20260805054537400800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -376,7 +422,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -387,7 +433,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -398,7 +444,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -409,7 +455,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -438,69 +484,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 07时02分]"
-        },
-        {
-          "title": "OpenAI：第三方网络评估涉及本公司的诸多模型。",
-          "url": "https://wallstreetcn.com/livenews/3144962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
-          "url": "https://flash.jin10.com/detail/20260805052416082800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "OpenAI模型在第三方网络测试中突破安全边界",
-          "url": "https://wallstreetcn.com/livenews/3144962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
-          "url": "https://wallstreetcn.com/livenews/3144861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "疑似梁文锋早期微博被扒",
@@ -548,12 +533,84 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 03时29分]"
+        },
+        {
+          "title": "报道：DeepSeek重启融资，投前估值5000亿元",
+          "url": "https://wallstreetcn.com/livenews/3145053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 10时14分]"
+        },
+        {
+          "title": "OpenAI：第三方网络评估涉及本公司的诸多模型。",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
+          "url": "https://flash.jin10.com/detail/20260805052416082800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "OpenAI模型在第三方网络测试中突破安全边界",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
+          "url": "https://wallstreetcn.com/livenews/3144861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
@@ -565,6 +622,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时46分 ~ 07时02分]"
+        },
+        {
+          "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
+          "url": "https://www.zhihu.com/question/2067002987545884316",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         }
       ]
     },
