@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T11:52:03.251023+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-08-17T12:40:13.237713+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 12时40分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 12时40分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 12时40分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -64,6 +64,18 @@
           "time_info": "[00时21分 ~ 09时07分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 12时40分]"
+        },
+        {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
           "url": "https://flash.jin10.com/detail/20260817031430338800",
           "source": "金十数据",
@@ -73,6 +85,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "特朗普已指示“大幅缩减”美韩军演",
+          "url": "https://www.toutiao.com/trending/7674325678535491611/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 12时40分]"
         },
         {
           "title": "哈马斯方面表示，他们是否同意特朗普计划的第二阶段，取决于是否能实现永久停火和以色列撤军。",
@@ -97,17 +122,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 11时52分]"
-        },
-        {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳与加沙和平委员会的会晤已结束。",
           "url": "https://flash.jin10.com/detail/20260816235136555800",
           "source": "金十数据",
@@ -120,16 +134,16 @@
           "time_info": "[00时22分 ~ 02时25分]"
         },
         {
-          "title": "特朗普已指示“大幅缩减”美韩军演",
-          "url": "https://www.toutiao.com/trending/7674325678535491611/",
-          "source": "今日头条",
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
           "ranks": [
-            24,
-            10
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时57分 ~ 11时52分]"
+          "time_info": "[11时51分 ~ 12时40分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -153,17 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 02时25分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
         },
         {
           "title": "特朗普发声后，韩国防部称韩美军演正按计划进行",
@@ -323,8 +326,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 12时40分]"
         },
         {
           "title": "伊朗称逮捕或消灭美军者将获奖励",
@@ -335,11 +338,12 @@
             7,
             15,
             20,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 11时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 12时40分]"
         },
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -559,7 +563,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek正式涨价",
@@ -569,8 +573,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 12时40分]"
+        },
+        {
+          "title": "DeepSeek调价生效 涨幅最高达1100%",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            24,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 12时40分]"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 12时40分]"
         },
         {
           "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
@@ -596,28 +626,15 @@
           "time_info": "09时07分"
         },
         {
-          "title": "DeepSeek调价生效 涨幅最高达1100%",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
-          "source": "百度热搜",
+          "title": "博主：DeepSeek要当全球Agent的底座",
+          "url": "https://www.toutiao.com/trending/7674830497876282921/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            24,
-            23
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时52分]"
-        },
-        {
-          "title": "DeepSeek正式涨价",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时52分]"
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 12时40分]"
         },
         {
           "title": "DeepSeek Harness邪修攻略",
@@ -634,7 +651,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -646,8 +663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 11时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 12时40分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -684,6 +701,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 03时21分]"
+        },
+        {
+          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
+          "url": "https://wallstreetcn.com/articles/3779533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 12时40分]"
+        },
+        {
+          "title": "OpenAI 人事地震",
+          "url": "https://www.baidu.com/s?wd=OpenAI+%E4%BA%BA%E4%BA%8B%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 12时40分]"
         }
       ]
     },
@@ -698,11 +737,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 11时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 12时40分]"
         },
         {
           "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
@@ -710,11 +750,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时52分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 12时40分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -731,8 +772,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价大涨藏着什么信号",
+          "url": "https://www.toutiao.com/trending/7674833333351632403/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时39分 ~ 12时40分]"
+        },
         {
           "title": "9月按兵不动成主流，本周金价线索藏在美联储细节中",
           "url": "https://flash.jin10.com/detail/20260817113428866800",
@@ -740,7 +792,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
